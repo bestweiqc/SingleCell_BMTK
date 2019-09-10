@@ -1,4 +1,4 @@
-# SingleCell_BMTK
+# SingleCell_BMTK!
 
 1.Download VM from https://www.virtualbox.org/wiki/Downloads
 
